@@ -1,0 +1,27 @@
+{
+  "name": "Basketball Stat Tracker AI",
+  "short_name": "Stat Tracker",
+  "description": "An application for tracking a basketball player's stats in real-time during a game, with an AI-powered game summary generator.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/maskable-icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

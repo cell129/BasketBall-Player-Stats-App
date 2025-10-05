@@ -1,0 +1,5 @@
+{
+  "name": "Basketball Stat Tracker AI",
+  "description": "An application for tracking a basketball player's stats in real-time during a game, with an AI-powered game summary generator.",
+  "requestFramePermissions": []
+}
